@@ -229,8 +229,8 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 
 Isi bagian ini sebelum pengumpulan akhir.
 
-> Alat AI yang digunakan: [nama alat].
+> Alat AI yang digunakan: [Gemini].
 >
-> Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
+> Bagian yang dibantu: [Mengatasi kendala error pada library Polars dan DuckDB, serta penyusunan query SQL untuk analisis data pengiriman makanan].
 >
-> Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+> Verifikasi yang dilakukan: [Menjalankan ulang kode di Jupyter Notebook, memeriksa keakuratan hasil query, dan memahami setiap baris logika code yang digunakan].
