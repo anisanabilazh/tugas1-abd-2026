@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `[Food Delivery Time Prediction Dataset]` |
+| Sumber | `[https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset]` |
+| Lisensi/ketentuan pakai | `[CC0: Public Domain]` |
+| Ukuran | `[9.42 MB (Development Sample) / > 500 MB (Full Dataset)]` |
+| Periode data | `[2022]` |
+| Unit analisis | `[Transaksi pengiriman makanan (per order / delivery task)]` |
 
 ## Tempat Mencari Dataset
 
